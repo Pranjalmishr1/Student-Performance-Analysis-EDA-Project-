@@ -209,22 +209,6 @@ This project demonstrates a **professional EDA workflow** that transforms raw ed
 
 **Core Takeaway:** Test preparation, parental background, and demographic factors all contribute to academic performance patterns—highlighting opportunities for targeted educational interventions.
 
----
-
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](#).
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
