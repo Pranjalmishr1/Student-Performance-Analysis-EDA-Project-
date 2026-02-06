@@ -211,20 +211,7 @@ This project demonstrates a **professional EDA workflow** that transforms raw ed
 
 ---
 
-## 👨‍💻 About the Author
 
-**Sachin Laxman Masti**  
-*Aspiring Data Scientist | Python & Analytics Enthusiast*
-
-📧 Email: sachinmasti88@gmail.com  
-
-💼 LinkedIn: [Sachin Masti](https://www.linkedin.com/in/sachin-masti-b9780b257/)
-
-🐙 GitHub: [GitHub](https://github.com/sachinmasti)
-
-📊 Portfolio: [My Portfolio](https://yourportfolio.com)
-
----
 
 ## 🤝 Contributing
 
